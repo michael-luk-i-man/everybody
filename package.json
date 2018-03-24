@@ -1,0 +1,28 @@
+{
+  "name": "everybody",
+  "version": "1.0.0",
+  "description": "Package for the EVERYBODY app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-luk-i-man/everybody.git"
+  },
+  "keywords": [
+    "realtime",
+    "database"
+  ],
+  "author": "Michael Lukiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michael-luk-i-man/everybody/issues"
+  },
+  "homepage": "https://github.com/michael-luk-i-man/everybody#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "kotlin": "^1.2.31",
+    "pusher": "^1.5.1"
+  }
+}
